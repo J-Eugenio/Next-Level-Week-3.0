@@ -1,6 +1,4 @@
-<h1 align="center">
-    <img alt="Happy" title="Happy" src="https://github.com/rocketseat-education/nlw-03-omnistack/blob/master/.github/happy.png" />
-</h1>
+
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -18,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src=".github/happy.png" width="100%">
+  <img alt="Happy" src="https://github.com/rocketseat-education/nlw-03-omnistack/blob/master/.github/happy.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
